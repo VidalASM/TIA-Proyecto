@@ -18,8 +18,11 @@ En la carpeta "Preprocesamiento" está el código hecho en matlab del preprocesa
 
 
 Arquitectura:
-- La arquitectura que consiste de :
-1- Red Neuronal Convolucional
+La arquitectura que consiste de una red Neuronal convolucional, esta red neuronal contiene principalmente estas capas:
+- Convolutional layer,
+- Maximum pooling layer,
+- Convolutional layer
+- softmax classifier
 
 Base de Datos:
 - All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
