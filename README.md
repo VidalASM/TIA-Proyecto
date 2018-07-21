@@ -14,6 +14,8 @@ Preprocesamiento:
 - A partir de la primera máscara determinamos el lado en que esta posicionado la mama (perfil izquierdo o derecho)
 - Empleando como referencia el perfil de la mama vamos a emplear técnicas de Seeded region growing (SRG) para seleccionar el musculo pectoral y retirarlo de la primera máscara teniendo finalmente la máscara para la segmentación apropiada
 
+En la carpeta "Preprocesamiento" está el código hecho en matlab del preprocesamiento de las mamografías, en el archivo "proyecto.m" llama al conjunto de archivos que contienen funciones para esta etapa, la salida de estecódigo es una carpeta con la máscara y la imagen original para su posterior segmentación.
+
 
 Arquitectura:
 - La arquitectura que consiste de :
