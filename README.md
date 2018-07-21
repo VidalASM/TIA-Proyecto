@@ -16,7 +16,7 @@ Preprocesamiento:
 
 
 Arquitectura:
-- La arquitectura que consiste de dos partes:
+- La arquitectura que consiste de :
 1- Red Neuronal Convolucional
 
 Base de Datos:
