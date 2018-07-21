@@ -22,7 +22,7 @@ Arquitectura:
 
 
 Base de Datos:
-All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
+- All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
 
 Archivo de Entrenamiento:
 Archivo de Prueba:
