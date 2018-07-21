@@ -23,7 +23,7 @@ Base de Datos:
 - All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
 
 Archivo de Entrenamiento:
-
+- cnn_train.py
 
 Archivo de Prueba:
 - Carpeta Test del repositorio
