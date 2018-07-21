@@ -17,16 +17,16 @@ Preprocesamiento:
 
 Arquitectura:
 - La arquitectura que consiste de dos partes:
-1- Red Neuronal Concolucional
-2- Stacked Autoencoder
-
+1- Red Neuronal Convolucional
 
 Base de Datos:
 - All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
 
 Archivo de Entrenamiento:
+
+
 Archivo de Prueba:
 
 
 Resultados:
--
+- A comparación de lo presentado en el paper, se tuvo dificultad al entrenarlo por lo que tuvimos que hacer uno cambios para poder obtener una clusterización buena, primero se tuvo que variar la cantidad de epochs.
