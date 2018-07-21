@@ -26,6 +26,7 @@ Archivo de Entrenamiento:
 
 
 Archivo de Prueba:
+- Carpeta Test del repositorio
 
 
 Resultados:
