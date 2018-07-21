@@ -7,21 +7,23 @@ Integrantes:
 - Diego Andre Ranilla Gallegos
 - Vidal Antonio Soncco merma
 
-Preprocesameinto:
+Preprocesamiento:
+- Eliminación de sonido mediante el filtro medio de 3x3
+- Eliminación de artefactos de la radiografia y separamos la mama del fondo de la imagen
+- Generamos la primera máscara
+- A partir de la primera máscara determinamos el lado en que esta posicionado la mama (perfil izquierdo o derecho)
+- Empleando como referencia el perfil de la mama vamos a emplear técnicas de Seeded region growing (SRG) para seleccionar el musculo pectoral y retirarlo de la primera máscara teniendo finalmente la máscara para la segmentación apropiada
 
 
 Arquitectura:
 
 
 Base de Datos:
-- All-mias
-- Tipo pgm
+All Mias 322 imágenes de tamaño de 1024x124 en formato .pgm
 
 Archivo de Entrenamiento:
--
-
 Archivo de Prueba:
-- 
+
 
 Resultados:
 -
