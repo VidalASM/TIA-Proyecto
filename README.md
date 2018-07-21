@@ -30,4 +30,4 @@ Archivo de Prueba:
 
 
 Resultados:
-- A comparación de lo presentado en el paper, se tuvo dificultad al entrenarlo por lo que tuvimos que hacer uno cambios para poder obtener una clusterización buena, primero se tuvo que variar la cantidad de epochs.
+- A comparación de lo presentado en el paper, se tuvo dificultad al entrenarlo por lo que tuvimos que hacer uno cambios para poder obtener una clusterización buena, sobre la red se entrenó con 3 epochs.
